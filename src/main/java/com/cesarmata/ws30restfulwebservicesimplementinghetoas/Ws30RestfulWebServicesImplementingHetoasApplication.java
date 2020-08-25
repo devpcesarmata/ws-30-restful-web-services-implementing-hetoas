@@ -9,5 +9,4 @@ public class Ws30RestfulWebServicesImplementingHetoasApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Ws30RestfulWebServicesImplementingHetoasApplication.class, args);
 	}
-
 }
